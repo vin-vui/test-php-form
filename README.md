@@ -1,2 +1,3 @@
 # test-php-form
- Simple unsecure form in PHP, for learning only
+ Simple unsecure form in PHP, for learning only.
+ Even if the htmlspecialchars() function prevent XSS attacks...
